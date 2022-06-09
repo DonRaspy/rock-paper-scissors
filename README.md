@@ -1,1 +1,3 @@
 # rock-paper-scissors
+
+In this project, I will be making a Rock Paper Scissors game. The html and styles will be barebone, as I will be using javascript to play this in the console. I we will be structuring the javascript and creating some important functions and variables. Then, I will be asking the user for their "choice" and will be having the computer select their choice as well. We will be using for and while loops to validate the user input. Later, I will set up all of the console logs and we will finalize the project.
