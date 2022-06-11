@@ -1,7 +1,23 @@
+body{
+    background:lightgray;
+}
+
 .header{
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 25px;
     font-weight: bolder;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    flex-direction: column;
+    margin: 60px;
+}
+
+button{
+    border-radius: 10px;
 }
